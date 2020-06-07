@@ -50,3 +50,4 @@ notifications:
   email:
     recipients:
       - tommyguy8808@gmail.com
+  slack: runtoyou:EhDKmSdkqrMZ3aluxQdiXk9f
